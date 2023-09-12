@@ -11,6 +11,10 @@ public class TestObject {
         return name;
     }
 
+    public static void test1() {
+        System.out.println("test1");
+    }
+
     public void setName(String name) {
         this.name = name;
     }
