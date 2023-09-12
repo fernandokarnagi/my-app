@@ -1,0 +1,123 @@
+
+8com.mycompany.app.TestObject#equals(Ljava/lang/Object;)ZR
+H/opt/devops/sonar/my-app/src/main/java/com/mycompany/app/TestObject.java ("startingBlock*…
+2 2  (9u
+s
+ A  (H
+%5java.lang.String"__id*I
+
+__unknown_file (-*+
+com.mycompany.app.TestObject"	
+address{
+y
+ J  (V
+%6java.lang.String"__id*O
+
+__unknown_file (3*1
+$
+thatcom.mycompany.app.TestObject"	
+addressü
+ù
+ 2  (W
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*
+1*ñ
+3' ((m
+k
+ ()$
+thatcom.mycompany.app.TestObject"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectr
+p
+   ("
+%2java.lang.String"__id*F
+
+__unknown_file (**(
+com.mycompany.app.TestObject"
+namex
+v
+ $  (-
+%3java.lang.String"__id*L
+
+__unknown_file (0*.
+$
+thatcom.mycompany.app.TestObject"
+nameü
+ù
+   (.
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*
+2
+1*†
+startingBlock (#ˆ
+…
+ (
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+! ("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*	
+4
+5
+7*!
+4< (A"
+5 (B
+""*Ê
+5 (!œ™
+ (#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*<
+
+__unknown_file ( 
+com.mycompany.app.TestObject2
+getClass()“
+' (3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()*
+3
+4*!
+7 (""
+ (#
+""*!
+1   (X"
+   (X
+"":!
+ ("
+ojava.lang.ObjectB 
+com.mycompany.app.TestObjectHP

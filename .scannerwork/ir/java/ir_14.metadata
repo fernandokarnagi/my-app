@@ -1,0 +1,3 @@
+com.mycompany.app.TestObject#test2()V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

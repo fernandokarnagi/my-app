@@ -1,0 +1,35 @@
+
+(com.mycompany.app.TestObject#hashCode()IR
+H/opt/devops/sonar/my-app/src/main/java/com/mycompany/app/TestObject.java$ $("1*ô
+1% %(r
+p
+% %( 
+%0java.lang.String"__id*F
+
+__unknown_file (**(
+com.mycompany.app.TestObject"
+nameu
+s
+%" %()
+%1java.lang.String"__id*I
+
+__unknown_file (-*+
+com.mycompany.app.TestObject"	
+addresså
+â
+% %(*	
+%2int",java.util.Objects#hash([Ljava/lang/Object;)I*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String"
+% %(+
+""B 
+com.mycompany.app.TestObjectHP

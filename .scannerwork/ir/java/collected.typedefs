@@ -1,7 +1,19 @@
 é
 com.mycompany.app.App)
 <init>com.mycompany.app.App#<init>()V8
-main0com.mycompany.app.App#main([Ljava/lang/String;)Vjava.lang.Objectß
+main0com.mycompany.app.App#main([Ljava/lang/String;)Vjava.lang.ObjectÅ
+!com.mycompany.app.NewClassFeature5
+<init>+com.mycompany.app.NewClassFeature#<init>()VH
+getName=com.mycompany.app.NewClassFeature#getName()Ljava/lang/String;I
+setName>com.mycompany.app.NewClassFeature#setName(Ljava/lang/String;)Vjava.lang.Objectß
 com.mycompany.app.AppTest-
 <init>#com.mycompany.app.AppTest#<init>()VI
-shouldAnswerWithTrue1com.mycompany.app.AppTest#shouldAnswerWithTrue()Vjava.lang.Object
+shouldAnswerWithTrue1com.mycompany.app.AppTest#shouldAnswerWithTrue()Vjava.lang.Object«
+com.mycompany.app.TestObject0
+<init>&com.mycompany.app.TestObject#<init>()VB
+equals8com.mycompany.app.TestObject#equals(Ljava/lang/Object;)ZC
+getName8com.mycompany.app.TestObject#getName()Ljava/lang/String;4
+hashCode(com.mycompany.app.TestObject#hashCode()ID
+setName9com.mycompany.app.TestObject#setName(Ljava/lang/String;)V.
+test1%com.mycompany.app.TestObject#test1()V.
+test2%com.mycompany.app.TestObject#test2()Vjava.lang.Object

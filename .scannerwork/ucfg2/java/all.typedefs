@@ -96,7 +96,39 @@ setError()java.io.PrintStream#setError()Vl
 write(I)java.io.PrintStream#write(I)VK
 write(Ljava/lang/String;).java.io.PrintStream#write(Ljava/lang/String;)V/
 write([BII) java.io.PrintStream#write([BII)V+
-	write([C)java.io.PrintStream#write([C)V´
+	write([C)java.io.PrintStream#write([C)Vô
+!com.mycompany.app.NewClassFeaturejava.lang.Object7
+<init>()+com.mycompany.app.NewClassFeature#<init>()VJ
+	getName()=com.mycompany.app.NewClassFeature#getName()Ljava/lang/String;]
+setName(Ljava/lang/String;)>com.mycompany.app.NewClassFeature#setName(Ljava/lang/String;)V´
 com.mycompany.app.AppTestjava.lang.Object/
 <init>()#com.mycompany.app.AppTest#<init>()VK
-shouldAnswerWithTrue()1com.mycompany.app.AppTest#shouldAnswerWithTrue()V
+shouldAnswerWithTrue()1com.mycompany.app.AppTest#shouldAnswerWithTrue()V˘
+com.mycompany.app.TestObjectjava.lang.Object2
+<init>()&com.mycompany.app.TestObject#<init>()VV
+equals(Ljava/lang/Object;)8com.mycompany.app.TestObject#equals(Ljava/lang/Object;)ZE
+	getName()8com.mycompany.app.TestObject#getName()Ljava/lang/String;6
+
+hashCode()(com.mycompany.app.TestObject#hashCode()IX
+setName(Ljava/lang/String;)9com.mycompany.app.TestObject#setName(Ljava/lang/String;)V0
+test1()%com.mycompany.app.TestObject#test1()V0
+test2()%com.mycompany.app.TestObject#test2()V¥
+java.util.Objectsjava.lang.Object'
+<init>()java.util.Objects#<init>()VE
+checkFromIndexSize(III)*java.util.Objects#checkFromIndexSize(III)IA
+checkFromToIndex(III)(java.util.Objects#checkFromToIndex(III)I3
+checkIndex(II)!java.util.Objects#checkIndex(II)Iù
+Ccompare(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Vjava.util.Objects#compare(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Iw
+0deepEquals(Ljava/lang/Object;Ljava/lang/Object;)Cjava.util.Objects#deepEquals(Ljava/lang/Object;Ljava/lang/Object;)Zo
+,equals(Ljava/lang/Object;Ljava/lang/Object;)?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)ZI
+hash([Ljava/lang/Object;),java.util.Objects#hash([Ljava/lang/Object;)IO
+hashCode(Ljava/lang/Object;)/java.util.Objects#hashCode(Ljava/lang/Object;)IK
+isNull(Ljava/lang/Object;)-java.util.Objects#isNull(Ljava/lang/Object;)ZM
+nonNull(Ljava/lang/Object;).java.util.Objects#nonNull(Ljava/lang/Object;)Zl
+"requireNonNull(Ljava/lang/Object;)Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;ê
+4requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;¶
+?requireNonNull(Ljava/lang/Object;Ljava/util/function/Supplier;)cjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;ò
+8requireNonNullElse(Ljava/lang/Object;Ljava/lang/Object;)\java.util.Objects#requireNonNullElse(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;¥
+FrequireNonNullElseGet(Ljava/lang/Object;Ljava/util/function/Supplier;)jjava.util.Objects#requireNonNullElseGet(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;`
+toString(Ljava/lang/Object;)@java.util.Objects#toString(Ljava/lang/Object;)Ljava/lang/String;Ñ
+.toString(Ljava/lang/Object;Ljava/lang/String;)Rjava.util.Objects#toString(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/String;
