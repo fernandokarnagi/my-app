@@ -1,0 +1,7 @@
+Ž
+com.mycompany.app.App)
+<init>com.mycompany.app.App#<init>()V8
+main0com.mycompany.app.App#main([Ljava/lang/String;)Vjava.lang.Object§
+com.mycompany.app.AppTest-
+<init>#com.mycompany.app.AppTest#<init>()VI
+shouldAnswerWithTrue1com.mycompany.app.AppTest#shouldAnswerWithTrue()Vjava.lang.Object
