@@ -1,1 +1,1 @@
-com.mycompany.app.AppTest#shouldAnswerWithTrue()V
+com.mycompany.app.NewClassFeature#getName()Ljava/lang/String;

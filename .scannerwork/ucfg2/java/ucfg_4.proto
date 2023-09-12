@@ -1,0 +1,17 @@
+
+8com.mycompany.app.TestObject#getName()Ljava/lang/String;R
+H/opt/devops/sonar/my-app/src/main/java/com/mycompany/app/TestObject.java
+ 
+("1*§
+1 (r
+p
+ (
+%0java.lang.String"__id*F
+
+__unknown_file (**(
+com.mycompany.app.TestObject"
+name"$
+ (
+
+%0java.lang.StringB 
+com.mycompany.app.TestObjectH

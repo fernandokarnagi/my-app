@@ -1,0 +1,7 @@
+organization=fernandokarnagi
+projectKey=fernandokarnagi_myapp_release
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.46037
+dashboardUrl=https://sonarcloud.io/dashboard?id=fernandokarnagi_myapp_release
+ceTaskId=AYqI8S3RnKOnsnd6Xlqv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYqI8S3RnKOnsnd6Xlqv
